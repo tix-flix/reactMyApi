@@ -1,0 +1,7 @@
+.link {
+    text-decoration: none;
+    font-weight: bolder;
+}
+.link:hover {
+    color: rgba(233, 221, 221, 0.678);
+}
